@@ -157,10 +157,9 @@ The web terminals that replaced Telegram bots in 2025. Sub-second execution, MEV
 | 🎟️ ⚡ **GMGN** | SOL, ETH, Base, BSC, Tron, Monad | Web + Telegram | AI risk scans, smart money tracking (10K+ wallets), copy trade, anti-MEV, multi-chain | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | 🎟️ ⚡ **Trojan Terminal** | Solana | Web + Telegram | The Arena gamification, copy 40 wallets, perps, MetaMask integration, multi-chain bridge | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | 🎟️ **BullX Neo** | Sol, ETH, Base, BSC, Arb, Blast, Tron | Web + Telegram | Pump Vision, dual chain view, multi-chain breadth | 🟢 Live | [BullX Telegram](https://t.me/BullxBetaBot?start=access_ZH5O9XEG5XQ) · [bullx.io](https://bullx.io) |
-| 🆕 **Padre / Terminal** | Solana, BSC, Base | Web terminal | Pump.fun-owned, Trenches, pre-trade simulation, Turnkey MPC | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ 🆕 **Padre / Terminal** | Solana, BSC, Base | Web terminal | Pump.fun-owned, Trenches, pre-trade simulation, Turnkey MPC | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Nova** | Solana | Web terminal | Trenches, AFK trading | 🟢 Live | [tradeonnova.io](https://tradeonnova.io) |
-| **MEVx** | Solana | Web terminal | MEV-aware sniping | 🟢 Live | [mevx.io](https://mevx.io) |
-| 🎟️ **MEVx Telegram** | Solana | Telegram | MEV-aware Telegram trading | 🟢 Live | [@Mevx](https://t.me/Mevx?start=coinmonks) |
+| 🎟️ **MEVx** | Solana | Web + Telegram + Chrome ext | MEV-aware sniping (single product, multiple surfaces) | 🟢 Live | [@Mevx](https://t.me/Mevx?start=coinmonks) |
 | **DEX Screener Pro** | Multichain | Web terminal | Charts + native swap + trending | 🟢 Live | [dexscreener.com](https://dexscreener.com) |
 | **Bullpen** | Solana + Hyperliquid | Web + Mobile + Telegram | Co-founded by Ansem, multi-platform | 🟢 Live | [bullpen.fi/@agile-yak](https://bullpen.fi/@agile-yak) |
 | 🎟️ **Bloom Trading Bot** | Solana | Web + Telegram | Aggressive sniping presets | 🟢 Live | [Bloom Telegram](https://t.me/BloomSolana_bot?start=ref_4JW9MZKN3B) |
@@ -199,6 +198,11 @@ Telegram bots are still the fastest path for many memecoin traders — sub-secon
 | **Solana Trojan Web** | Solana | Web | Trojan's web companion | 🟢 Live | [trojan.com](https://trojan.com/@coincodecap) |
 | **Phanes** | Solana | Bot | Solana memecoin sniper | 🟢 Live | [phanes.io](https://phanes.io) |
 | **Apex Trading** | Multichain | Bot | EVM + Sol multi-chain | 🟢 Live | [apex.trading](https://apex.trading) |
+| 🎟️ **Leap Trading Bot** | Solana | Bot | Solana memecoin TG bot | 🟢 Live | [@leaptrading_bot](https://t.me/leaptrading_bot?start=ref_gaurav_zen) |
+| 🎟️ **CashCash** | Solana | Bot | Solana memecoin trading bot | 🟢 Live | [@CashCash_trade_bot](https://t.me/CashCash_trade_bot?start=ref_3d58ee71-5) |
+| 🎟️ **Sigma Buy Bot** | Solana | Bot | Solana sniper / fast buy | 🟢 Live | [@Sigma_buyBot](https://t.me/Sigma_buyBot?start=ref=388733201) |
+| 🎟️ **DBotX** | Multichain | Bot | Multi-chain trading bot platform | 🟢 Live | [dbotx.com](https://dbotx.com/?ref=81911082) |
+| 🎟️ **Ave.ai (avebot)** | Solana + EVM | Bot + Web | Memecoin discovery + trading from Telegram and web | 🟢 Live | [share.ave.ai](https://share.ave.ai?code=gaurav) |
 
 ---
 
@@ -216,11 +220,10 @@ Bots focused on **catching tokens at the moment of launch** — pre-bonding-curv
 | 🎟️ **MEVx Sniper** | Solana | MEV-aware, Jito-bundle | 🟢 Live | [@Mevx](https://t.me/Mevx?start=coinmonks) |
 | 🎟️ **Autosnipe.ai** | Solana | Auto-sniping by ruleset | 🟢 Live | [autosnipe.ai/r/coinmonks](https://autosnipe.ai/r/coinmonks) |
 | **BullX Sniper** | Multichain | New pair detection | 🟢 Live | [@BullxBetaBot](https://t.me/BullxBetaBot?start=access_ZH5O9XEG5XQ) |
-| **Padre Sniper** | Solana | Trenches-integrated sniping | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Sniper** | Solana | Trenches-integrated sniping | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Axiom Sniper** | Solana | Vision-integrated sniping | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
 | **Apexniper** | Multichain | Cross-chain sniping | 🟢 Live | [apexniper.io](https://apexniper.io) |
 | **PumpFunSniper** | Solana | Pump.fun-specific sniper | 🟢 Live | [pumpfunsniper.io](https://pumpfunsniper.io) |
-| **MevX Snipers** | Solana | Pre-bonding-curve | 🟢 Live | [mevx.io](https://mevx.io) |
 
 ---
 
@@ -230,7 +233,7 @@ The "trenches" — that 0% to 95% bonding-curve window where most of the alpha (
 
 | Tool | Coverage | Notable Features | Status | Website |
 | --- | --- | --- | --- | --- |
-| **Padre Trenches** | Pump.fun, Four.meme | New / Almost Bonded / Recently Bonded columns, dev signals, blacklist, sound alerts | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Trenches** | Pump.fun, Four.meme | New / Almost Bonded / Recently Bonded columns, dev signals, blacklist, sound alerts | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Photon Memescope** | Pump.fun, Moonshot | Trenches-style discovery in Photon | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **BullX Pump Vision** | Pump.fun | Real-time bonding-curve tracking | 🟢 Live | [bullx.io](https://bullx.io) |
 | **PumpScope** | Pump.fun | Live token feed, whale tracking, rug detection, graduation alerts | 🟢 Live | [pumpscope.polsia.app](http://pumpscope.polsia.app/) |
@@ -261,7 +264,7 @@ Mirror profitable memecoin wallets in real time. Combine smart-money discovery w
 | 🎟️ **Trojan Copy Trading** | Solana | Copy 40 wallets with custom risk allocation | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **Fluxbot Copy Trading** | Solana | Real-time copy trading | 🟢 Live | [fluxbot.xyz](https://fluxbot.xyz) |
 | **Copin** | Multichain | 600K+ on-chain trader pool, copy across 20+ DEXs | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
-| **Padre Copy** | Solana | Padre's native copy trading | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Copy** | Solana | Padre's native copy trading | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **PVP Trade** | Solana | PvP-style competitive copy trading | 🟢 Live | [pvp.trade](https://pvp.trade) |
 
 ---
@@ -274,12 +277,12 @@ Find and follow profitable wallets, KOLs, insiders, and whales across chains. Re
 | --- | --- | --- | --- | --- |
 | ⚡ **Cielo** | 30+ chains | 250-wallet free tier, EVM↔SOL bridge tracking, Whale plan = 10K wallets | 🟢 Live | [cielo.finance](https://cielo.finance) |
 | ⚡ **Nansen** | Multichain | 500M+ labeled wallets, Smart Money / Fund tags ($49/mo) | 🟢 Live | [nansen.ai](https://nansen.ai) |
-| **Arkham** | Multichain | Entity de-anonymisation, KOL tags (950+), free | 🟢 Live | [arkhamintelligence.com](https://arkhamintelligence.com) |
+| 🎟️ **Arkham** | Multichain | Entity de-anonymisation, KOL tags (950+), free | 🟢 Live | [arkm.com](https://arkm.com/register?ref=03c4c435-9a97-4553-850d-c91faf29c7b8) |
 | **Lookonchain** | Multichain | Real-time on-chain tracking, alerts | 🟢 Live | [lookonchain.com](https://lookonchain.com) |
 | **GMGN Smart Money** | Multichain | KOL + smart money feeds, copy trade | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Birdeye Smart Money** | Solana | Wallet tracking inside Birdeye | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Axiom Vision** | Solana | Global wallet ranking, 10K wallets monitored | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
-| **Padre Vision** | Solana | Padre's wallet ranking | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Vision** | Solana | Padre's wallet ranking | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Trojan Analyzer** | Solana | Wallet ranking + performance tracking | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **MadeOnSol** | Solana | KOL tracker, deployer hunter, API for KOL trades | 🟢 Live | [madeonsol.com](https://madeonsol.com) |
 | **ChainEdge** | Multichain | Wallet alerts | 🟢 Live | [chainedge.io](https://chainedge.io) |
@@ -302,7 +305,7 @@ Discover top-performing wallets ranked by realized PnL, win rate, and ROI.
 | **Axiom Vision** | Solana | Global ranking with advanced filtering | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
 | **GMGN Top Wallets** | Multichain | Top trader leaderboard with copy | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **MadeOnSol KOL PnL** | Solana | Equity curves, drawdown, profit factor via API | 🟢 Live | [madeonsol.com](https://madeonsol.com) |
-| **Padre Vision** | Solana | Padre's PnL ranking | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Vision** | Solana | Padre's PnL ranking | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Trojan Analyzer** | Solana | Wallet ranking + filtering | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **Birdeye Wallet PnL** | Solana | Built-in wallet PnL on token pages | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Step Finance** | Solana | Self-portfolio PnL | 🟢 Live | [step.finance](https://step.finance) |
@@ -339,6 +342,7 @@ Scanners for finding new tokens, trending memes, liquidity events, and hot pairs
 | **Pulsar Insights** | Multichain | Multi-chain memecoin analytics | 🟢 Live | [pulsar.fi](https://pulsar.fi) |
 | **MadeOnSol** | Solana | Solana tool reviews + KOL data | 🟢 Live | [madeonsol.com](https://madeonsol.com) |
 | **Apespace** | Multichain | Charts + token discovery | 🟢 Live | [apespace.io](https://apespace.io) |
+| 🎟️ **Ave.ai** | Solana + Multi | Memecoin discovery + analytics + trading | 🟢 Live | [ave.ai](https://share.ave.ai?code=gaurav) |
 | **Toly Stats** | Solana | Solana ecosystem stats | 🟢 Live | [tolystats.com](https://tolystats.com) |
 
 ---
@@ -350,11 +354,11 @@ See who actually holds the supply — detect insider clusters, sybil splits, dep
 | Tool | Chains | Notable Features | Status | Website |
 | --- | --- | --- | --- | --- |
 | ⚡ **Bubblemaps** | Sol, ETH, BSC, Base, Tron | Visual holder networks, "Time Travel" view | 🟢 Live | [bubblemaps.io](https://bubblemaps.io) |
-| **Arkham Visualizer** | Multichain | Entity-mapped graph view | 🟢 Live | [arkhamintelligence.com](https://arkhamintelligence.com) |
+| 🎟️ **Arkham Visualizer** | Multichain | Entity-mapped graph view | 🟢 Live | [arkm.com](https://arkm.com/register?ref=03c4c435-9a97-4553-850d-c91faf29c7b8) |
 | **GMGN Holder Analysis** | Multichain | Holder insider trading patterns | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Solscan Holders** | Solana | Top holders + concentration % | 🟢 Live | [solscan.io](https://solscan.io) |
 | **Etherscan Holders** | EVM | Holder distribution | 🟢 Live | [etherscan.io](https://etherscan.io) |
-| **Padre Holder Tools** | Solana | Built into Trenches | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Holder Tools** | Solana | Built into Trenches | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Birdeye Holders** | Solana | Holder breakdown | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **DexCheck** | Multichain | Holder + insider analysis | 🟢 Live | [dexcheck.ai](https://dexcheck.ai) |
 | **Ape.bond Holder View** | Multichain | Distribution dashboards | 🟢 Live | [ape.bond](https://ape.bond) |
@@ -369,7 +373,7 @@ Detect coordinated buys (bundles), sandwich attacks, and insider snipes — crit
 | Tool | Chains | Specialty | Status | Website |
 | --- | --- | --- | --- | --- |
 | ⚡ **Trench Bot Bundle Scanner** | Solana | Slot-level bundle detection (sub-0.4s) | 🟢 Live | [trench.bot](https://trench.bot) |
-| **Padre Bundle Detection** | Solana | Bundle/insider signals in Trenches | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Bundle Detection** | Solana | Bundle/insider signals in Trenches | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **GMGN Insider Mode** | Multichain | Insider trading pattern flags | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Photon Bundle Check** | Solana | Inline bundle detection on token pages | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **Trenchy** | Solana | Telegram-based snipe / bundle scan | 🟢 Live | [solanabox.tools/tools/trenchy](https://solanabox.tools/tools/trenchy) |
@@ -418,7 +422,7 @@ Real-time OHLCV, volume, and indicators for memecoin pairs.
 | **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism | DexScreener alternative — live charts, heatmaps, AI overviews, Polymarket pages | 🟢 Live | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **Defined.fi Charts** | Multichain | High-resolution pro charts | 🟢 Live | [defined.fi](https://www.defined.fi) |
 | **Photon Charts** | Solana | Built into Photon | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
-| **Padre Charts** | Solana | Padre's chart engine | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Charts** | Solana | Padre's chart engine | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Axiom Charts** | Solana | Built into Axiom | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
 | **Trojan Charts** | Solana | Trojan Web charts | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 
@@ -482,7 +486,7 @@ The actual venues where memecoin volume happens.
 | **SunSwap** | Tron | AMM | SunPump migration target | 🟢 Live | [sunswap.com](https://sunswap.com) |
 | **Solana Trojan Web (Trojan Trade)** | Solana | Aggregator | Trojan's swap engine | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **OKX DEX** | Multichain | Aggregator | EVM + Solana aggregation | 🟢 Live | [okx.com/web3/dex](https://www.okx.com/web3/dex) |
-| **1inch** | EVM | Aggregator | Multi-chain EVM aggregation | 🟢 Live | [1inch.io](https://1inch.io) |
+| 🎟️ **1inch** | EVM | Aggregator | Multi-chain EVM aggregation | 🟢 Live | [1inch.io](https://app.1inch.io/#/r/0xbC9E96731FD3650538d23AD2DbFF46bF0454BA77) |
 | **Matcha** (0x) | EVM | Aggregator | 0x-powered EVM aggregator | 🟢 Live | [matcha.xyz](https://matcha.xyz) |
 | **CowSwap** | EVM | MEV-protected | Batch auctions, MEV protection | 🟢 Live | [cow.fi](https://cow.fi) |
 
@@ -499,7 +503,7 @@ The best mobile experiences for trading memecoins on the go.
 | 🎟️ **Backpack Exchange** | iOS / Android | Multi-chain | Wallet + CEX combo | 🟢 Live | [backpack.exchange](https://backpack.exchange/join/a6265f58-1598-4dac-bdcc-2715c6e65ea4) |
 | **Trojan Mobile** | iOS / Android | Solana | Native Trojan mobile | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **GMGN Mobile** | iOS / Android | Multichain | Native GMGN app | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
-| **Padre Mobile** | iOS / Android | Multichain | Padre app | 🟢 Live | [padre.gg](https://padre.gg) |
+| 🎟️ **Padre Mobile** | iOS / Android | Multichain | Padre app | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Axiom Mobile** | iOS / Android | Solana | Axiom mobile | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
 | **Photon Mobile** | iOS / Android | Solana | Photon mobile | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **DexScreener Mobile** | iOS / Android | Multichain | Mobile DexScreener | 🟢 Live | [dexscreener.com](https://dexscreener.com) |
@@ -523,10 +527,11 @@ Hot wallets, hardware wallets, and burner-friendly wallets.
 | **MetaMask** | Hot | EVM + Solana (Snap) | The OG EVM wallet | 🟢 Live | [metamask.io](https://metamask.io) |
 | **Rabby** | Hot | EVM | DeBank's wallet, simulation-first | 🟢 Live | [rabby.io](https://rabby.io) |
 | 🎟️ **Ledger** | Hardware | Multichain | Hardware wallet, Solana support | 🟢 Live | [ledger.com](https://shop.ledger.com/?r=da6d9b98e517) |
-| **Trezor** | Hardware | Multichain | Hardware wallet alternative | 🟢 Live | [trezor.io](https://trezor.io) |
+| 🎟️ **Trezor** | Hardware | Multichain | Hardware wallet alternative | 🟢 Live | [trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=5199) |
 | 🎟️ **SafePal** | Hardware + Mobile | Multichain | Hardware + mobile combo | 🟢 Live | [safepal.com](https://www.safepal.com/store/s1?ref=zge5mgy) |
 | **Trust Wallet** | Hot | Multi | Mobile wallet | 🟢 Live | [trustwallet.com](https://trustwallet.com) |
 | **OKX Wallet** | Hot | Multichain | OKX's wallet (CEX + DeFi) | 🟢 Live | [okx.com](https://okx.com/join/8432835) |
+| 🎟️ **Bitget Wallet** | Hot + Telegram | Multichain | Bitget Wallet web + Telegram bot | 🟢 Live | [partner.bitget.com](https://partner.bitget.com/bg/L94TTF) |
 | **Coinbase Wallet** | Hot | Multichain | Self-custodial Coinbase wallet | 🟢 Live | [wallet.coinbase.com](https://www.coinbase.com/wallet) |
 | **Glow** | Hot | Solana | Solana-native wallet | 🟢 Live | [glow.app](https://glow.app) |
 | **Magic Eden Wallet** | Hot | Solana, EVM | NFT-focused but works for memes | 🟢 Live | [wallet.magiceden.io](https://wallet.magiceden.io) |
@@ -559,6 +564,7 @@ Memecoin trades break most tax software. These actually handle Solana DeFi + mem
 | --- | --- | --- | --- | --- |
 | 🎟️ ⚡ **Awaken Tax** | Solana + Multi | Native Solana, Phantom partner, 25K+ DeFi protocols | 🟢 Live | [awaken.tax](https://awaken.tax/?ref=coinmonks) |
 | **CoinTracker** | Multichain | Solana wallet sync, NFTs, DeFi | 🟢 Live | [cointracker.io](https://www.cointracker.io) |
+| 🎟️ **CoinTracking** | Multichain | One of the oldest crypto tax tools, Solana + EVM | 🟢 Live | [cointracking.info](https://cointracking.info?ref=T987862) |
 | **Koinly** | Multichain | 900+ integrations, weak Solana sync | 🟢 Live | [koinly.io](https://koinly.io) |
 | **CoinLedger** | Multichain | Native Jupiter + Magic Eden support | 🟢 Live | [coinledger.io](https://coinledger.io) |
 | **Crypto Tax Calculator** | Multichain | Pro-grade DeFi tax | 🟢 Live | [cryptotaxcalculator.io](https://cryptotaxcalculator.io) |
