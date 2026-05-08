@@ -325,7 +325,7 @@ Scanners for finding new tokens, trending memes, liquidity events, and hot pairs
 | ⚡ **GeckoTerminal** | Multichain | Real-time DEX charts (CoinGecko) | 🟢 Live | [geckoterminal.com](https://www.geckoterminal.com) |
 | ⚡ **GMGN.ai** | Multichain | Smart money + AI risk + memecoin discovery | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Defined.fi** | Multichain | Pro-grade charts + token screener | 🟢 Live | [defined.fi](https://www.defined.fi) |
-| **DEXrabbit** | Sol, ETH, BSC, Base, Tron | Bitquery's analytics dashboard | 🟢 Live | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io) |
+| ⚡ **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arbitrum, Optimism | **DexScreener alternative** — real-time DEX analytics, live token / pair / cryptocurrency feeds, market heatmaps, AI overviews, plus native Polymarket data. Powered by Bitquery API. | 🟢 Live | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **CoinGecko Memecoins** | Multichain | Memecoin category list + prices | 🟢 Live | [CoinGecko Memecoins](https://www.coingecko.com/en/categories/meme-token) |
 | **CoinMarketCap Memecoins** | Multichain | CoinMarketCap meme category | 🟢 Live | [CMC Memecoins](https://coinmarketcap.com/view/memes/) |
 | **Dexu.ai** | Solana | AI-powered memecoin discovery | 🟢 Live | [dexu.ai](https://dexu.ai) |
@@ -415,6 +415,7 @@ Real-time OHLCV, volume, and indicators for memecoin pairs.
 | **GMGN Charts** | Multichain | Charts + smart-money overlay | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Birdeye Charts** | Solana | High-resolution OHLCV | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **DexTools Charts** | Multichain | Token charts + trades | 🟢 Live | [dextools.io](https://www.dextools.io) |
+| **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism | DexScreener alternative — live charts, heatmaps, AI overviews, Polymarket pages | 🟢 Live | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **Defined.fi Charts** | Multichain | High-resolution pro charts | 🟢 Live | [defined.fi](https://www.defined.fi) |
 | **Photon Charts** | Solana | Built into Photon | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **Padre Charts** | Solana | Padre's chart engine | 🟢 Live | [padre.gg](https://padre.gg) |
