@@ -803,6 +803,7 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 - [**Awesome Perp DEXs**](https://github.com/buddies2705/awesome-perp-dex) — 200+ perpetual DEXs (Hyperliquid, dYdX, GMX, Lighter, Aster) plus terminals, analytics, and bots. Perfect companion for memecoin traders who hedge with perps.
 - [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Polymarket, Kalshi, Limitless platforms, terminals, alert bots, analytics, AI agents.
 - [**Awesome Crypto Tax**](https://github.com/buddies2705/awesome-crypto-tax) — 150+ crypto tax tools. Awaken Tax (the DeFi-first tax software) handles Pump.fun / LetsBonk / Bags trades natively; CoinLedger and Koinly are also strong options for memecoin volume.
+- [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — 315+ blockchain APIs (Bitquery, Helius, Triton, Birdeye, GMGN, Bitquery Pump.fun API). The data plumbing under most memecoin trading tools in this list.
 
 ---
 
