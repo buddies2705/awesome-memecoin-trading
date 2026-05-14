@@ -583,6 +583,7 @@ Connect AI agents (Claude, Cursor, ChatGPT, Codex) directly to memecoin data and
 | MCP | Purpose | Status | Link |
 | --- | --- | --- | --- |
 | ⭐ **Bitquery MCP** | Pump.fun / LetsBonk / Four.meme / SunPump trades, OHLC, market cap in plain English | 🟢 Live | [mcp.bitquery.io](https://mcp.bitquery.io/) |
+| **Sharpe MCP Server** | Crypto market intelligence for token risk, derivatives, arbitrage, narratives, and exchange listings | 🟢 Live | [Docs](https://www.sharpe.ai/docs/mcp-server) |
 | **Jupiter MCP** | Solana token swaps via Jupiter Ultra API | 🟢 Live | [GitHub](https://github.com/kukapay/jupiter-mcp) |
 | **PumpFun Wallets MCP** | Analyse Pump.fun + PumpSwap wallets | 🟢 Live | [GitHub](https://github.com/kukapay/pumpfun-wallets-mcp) |
 | **Memecoin Radar MCP** | Solana memecoin & Pump.fun launch radar | 🟢 Live | [GitHub](https://github.com/kukapay/memecoin-radar-mcp) |
