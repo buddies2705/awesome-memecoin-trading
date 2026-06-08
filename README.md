@@ -599,6 +599,7 @@ Connect AI agents (Claude, Cursor, ChatGPT, Codex) directly to memecoin data and
 | **DexScreener Trending MCP** | Real-time trending tokens | 🟢 Live | [GitHub](https://github.com/kukapay/dexscreener-trending-mcp) |
 | **Crypto Indicators MCP** | 50+ TA indicators for memecoins | 🟢 Live | [GitHub](https://github.com/kukapay/crypto-indicators-mcp) |
 | **Birdeye MCP** | Real-time Solana on-chain data | 🟢 Live | [Birdeye Docs](https://birdeye.so) |
+| **TWZRD Agent Intel** | Verify Solana agent wallet trust before x402 payments; `score_agent`, `preflight_check` free, `get_trust_receipt` via x402 | 🟢 Live | [intel.twzrd.xyz](https://intel.twzrd.xyz) |
 
 ---
 
