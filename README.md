@@ -170,6 +170,7 @@ The web terminals that replaced Telegram bots in 2025. Sub-second execution, MEV
 | **Birdeye Trading** | Solana + Multi | Web | Birdeye's built-in swap (via Jupiter) | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Ape.pro / Ape.bond** | Multichain | Web | Curated discovery + trade | 🟢 Live | [ape.pro](https://ape.pro) |
 | **Solanahub** | Solana | Web | Multi-tool Solana hub | 🟢 Live | [solanahub.app](https://solanahub.app) |
+| **DOTT (Dump on the Trenches)** | Robinhood Chain, Solana | Web terminal | First terminal for Robinhood Chain memecoins; on-chain X-ray (rug/honeypot/backdoor detection), 24/7 AI auto-dump agent, bonding-curve launches, one-tap ape & dump, self-custodial | 🟢 Live | [dumponthetrenches.com](https://dumponthetrenches.com) |
 
 ---
 
