@@ -757,6 +757,7 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 - [BlockEden — Meme Launchpad 2.0](https://blockeden.xyz/blog/2026/04/22/meme-launchpad-2-pump-fun-letsbonk-anti-sniper-bonding-curve-professionalization/)
 
 ### Trading bots & terminals
+- [PnL Labs](https://pnllabs.com) - Trust & risk verdicts for AI trading agents on Solana via x402 (USDC, no keys): real realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade execution cost. Machine-first JSON + MCP server. ([API](https://api.pnllabs.com)) ([MCP](https://github.com/PnLlabs/pnllabs-mcp))
 
 - [MadeOnSol — Best Solana Telegram Bots 2026](https://madeonsol.com/best/telegram-bots)
 - [SolanaSniperBot — Best Solana Trading Bots 2026](https://solanasniperbot.net/best-solana-trading-bots/)
