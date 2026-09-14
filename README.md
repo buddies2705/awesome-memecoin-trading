@@ -447,6 +447,7 @@ AI-powered memecoin discovery, sentiment analysis, automated trading, and on-cha
 | **Wayfinder (Parallel)** | Multichain | AI agent runtime | 🟢 Live | [wayfinder.ai](https://wayfinder.ai) |
 | **Fetch.ai** | Multichain | AI agent infrastructure | 🟢 Live | [fetch.ai](https://fetch.ai) |
 | **AIXBT** | Multichain | AI alpha agent (token) | 🟢 Live | [aixbt.tech](https://aixbt.tech) |
+| **Solgrok ($SGROK)** | Solana | Autonomous creator-ops AI agent coin | 🟢 Live | [bags.fm](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS) |
 
 ---
 
