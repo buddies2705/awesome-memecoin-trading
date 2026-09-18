@@ -794,6 +794,7 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 - [Bitquery — Pump.fun Phishing Detection](https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/Pump-Fun-API/)
 - [GoPlus Token Security Docs](https://gopluslabs.io/token-security)
 - [Solsniffer Methodology](https://solsniffer.com)
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ---
 
