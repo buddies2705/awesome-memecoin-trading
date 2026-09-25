@@ -723,7 +723,6 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 | **MoonCarl** | Memecoin scanner & calls | [YouTube](https://www.youtube.com/@MoonCarl) |
 | **Altcoin Daily** | Daily altcoin news | [YouTube](https://www.youtube.com/@AltcoinDaily) |
 | **Whiteboard Crypto** | Crypto concepts explained | [YouTube](https://www.youtube.com/@WhiteboardCrypto) |
-| **Bullrank** | Bot + terminal reviews | [bullrank.io](https://bullrank.io) |
 | **MadeOnSol Blog** | Solana research articles | [madeonsol.com/blog](https://madeonsol.com/blog) |
 | **Hyperliquid Guide** | Hyperliquid memes + perps | [hyperliquidguide.com](https://hyperliquidguide.com) |
 
@@ -760,9 +759,8 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 
 - [MadeOnSol — Best Solana Telegram Bots 2026](https://madeonsol.com/best/telegram-bots)
 - [SolanaSniperBot — Best Solana Trading Bots 2026](https://solanasniperbot.net/best-solana-trading-bots/)
-- [Bullrank — Telegram Trading Bots Tested & Ranked](https://bullrank.io/best/telegram-trading-bots)
+- [CrossMeme — Cross-Chain Telegram Bots Tested](https://crossmeme.app/guides/best-cross-chain-memecoin-bots)
 - [CoinBrain — Best Web Trading Terminal 2026](https://devel.coinbrain.com/blog/which-web-trading-terminal-is-the-best)
-- [Bullrank — Axiom vs Photon vs GMGN](https://bullrank.io/learn/axiom-vs-photon-vs-gmgn)
 - [DexTools — Best Telegram Bots Solana 2026](https://www.dextools.io/tutorials/best-telegram-bots-for-solana-2026)
 
 ### Smart money & whale tracking
