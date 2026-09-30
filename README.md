@@ -599,6 +599,7 @@ Connect AI agents (Claude, Cursor, ChatGPT, Codex) directly to memecoin data and
 | **DexScreener Trending MCP** | Real-time trending tokens | 🟢 Live | [GitHub](https://github.com/kukapay/dexscreener-trending-mcp) |
 | **Crypto Indicators MCP** | 50+ TA indicators for memecoins | 🟢 Live | [GitHub](https://github.com/kukapay/crypto-indicators-mcp) |
 | **Birdeye MCP** | Real-time Solana on-chain data | 🟢 Live | [Birdeye Docs](https://birdeye.so) |
+| **MemeSwap MCP** | Non-custodial memecoin research, quotes, unsigned swaps. Wallet signs. Fee 0.85%. NFA. | 🟢 Live | [memeswap.fun](https://memeswap.fun/) · [MCP](https://mcp.memeswap.fun/mcp) · [Docs](https://memeswap.fun/developers.html) |
 
 ---
 
