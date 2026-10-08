@@ -100,6 +100,7 @@ Memecoins are community-driven crypto tokens — sometimes culturally meaningful
 - [🌐 DEXs Where Memecoins Trade](#-dexs-where-memecoins-trade)
 - [📱 Mobile Apps for Memecoin Trading](#-mobile-apps-for-memecoin-trading)
 - [👛 Wallets for Memecoin Traders](#-wallets-for-memecoin-traders)
+- [🧹 Account Cleanup & Rent Recovery](#-account-cleanup--rent-recovery)
 - [🔍 Block Explorers (Solana, BSC, Base, Tron)](#-block-explorers-solana-bsc-base-tron)
 - [💸 Tax Tools for Memecoin Traders](#-tax-tools-for-memecoin-traders)
 - [🤝 MCPs for Memecoin Traders (AI Agents)](#-mcps-for-memecoin-traders-ai-agents)
@@ -536,6 +537,16 @@ Hot wallets, hardware wallets, and burner-friendly wallets.
 | **Glow** | Hot | Solana | Solana-native wallet | 🟢 Live | [glow.app](https://glow.app) |
 | **Magic Eden Wallet** | Hot | Solana, EVM | NFT-focused but works for memes | 🟢 Live | [wallet.magiceden.io](https://wallet.magiceden.io) |
 | **Trojan Wallet** | Hot | Solana | Trojan's built-in wallet | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
+
+---
+
+## 🧹 Account Cleanup & Rent Recovery
+
+Memecoin trading leaves a graveyard of empty token accounts and dust tokens — each one quietly locking ~0.002 SOL of rent. These tools claw it back.
+
+| Tool | Chain | What It Does | Status | Website |
+| --- | --- | --- | --- | --- |
+| 🆕 **SolReclaim** | Solana | Finds empty SPL / Token-2022 token accounts, closes them in one batched signature, and returns the locked rent; optional Deep Clean mode burns dust and spam tokens to unlock their rent too | 🟢 Live | [soltools.us](https://soltools.us) |
 
 ---
 
