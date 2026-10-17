@@ -382,6 +382,7 @@ Detect coordinated buys (bundles), sandwich attacks, and insider snipes — crit
 | **MEV Inspect** | EVM | Open-source MEV/sandwich indexer | 🟢 Live | [mev-inspect](https://github.com/flashbots/mev-inspect-py) |
 | **Eigenphi** | Multichain | MEV analytics + sandwich tracking | 🟢 Live | [eigenphi.io](https://eigenphi.io) |
 | **Helius MEV Insights** | Solana | Solana MEV / Jito analytics | 🟢 Live | [helius.dev](https://helius.dev) |
+- [MemeGuard Bundle Checker](https://memeguard.site/bundle-checker) - Real-time launch forensics detecting block-zero Jito insider bundles, supply concentration, and dev launch patterns on Solana.
 
 ---
 
@@ -404,6 +405,7 @@ Run every token through these before you buy.
 | **CertiK SkyNet** | Multichain | Token & project safety scores | 🟢 Live | [skynet.certik.com](https://skynet.certik.com) |
 | **HoneyShield** | EVM | Honeypot scanner | 🟢 Live | [honeyshield.io](https://honeyshield.io) |
 | **Slither** | EVM | Open-source contract analyser | 🟢 Live | [Slither](https://github.com/crytic/slither) |
+- [MemeGuard](https://memeguard.site) - Solana meme coin rug checker and bundle forensics scanner inspecting direct on-chain state with 38 risk signals, developer wallet histories, and a public verdict track record.
 
 ---
 
