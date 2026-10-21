@@ -398,6 +398,7 @@ Run every token through these before you buy.
 | **TokenSniffer** | EVM | Contract audit summary | 🟢 Live | [tokensniffer.com](https://tokensniffer.com) |
 | **De.Fi Scanner** | Multichain | Smart contract risk scanner | 🟢 Live | [de.fi/scanner](https://de.fi/scanner) |
 | **Quick Intel** | Multichain | Contract audits + alerts | 🟢 Live | [quickintel.io](https://app.quickintel.io) |
+| **TokenGuard** | Solana | Telegram bot + API: SAFE/CAUTION/DANGER, auto-scans contracts in groups, pump.fun creator checks | 🟢 Live | [t.me/Token_guard_bot](https://t.me/Token_guard_bot) |
 | **Quill AI** | Multichain | AI-powered contract audits | 🟢 Live | [quillai.network](https://quillai.network) |
 | **Bubblemaps** | Multichain | Insider cluster detection | 🟢 Live | [bubblemaps.io](https://bubblemaps.io) |
 | **PumpFun Token Sniffer** | Solana | Pump.fun phishing detection (Bitquery PoC) | 🟢 Live | [Bitquery docs](https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/Pump-Fun-API/) |
