@@ -403,6 +403,7 @@ Run every token through these before you buy.
 | **PumpFun Token Sniffer** | Solana | Pump.fun phishing detection (Bitquery PoC) | 🟢 Live | [Bitquery docs](https://docs.bitquery.io/docs/blockchain/Solana/Pumpfun/Pump-Fun-API/) |
 | **CertiK SkyNet** | Multichain | Token & project safety scores | 🟢 Live | [skynet.certik.com](https://skynet.certik.com) |
 | **HoneyShield** | EVM | Honeypot scanner | 🟢 Live | [honeyshield.io](https://honeyshield.io) |
+| **ChainSift** | EVM | Sell simulation, tax, mint rights, LP locks | 🟢 Live | [chainsift.org](https://chainsift.org) |
 | **Slither** | EVM | Open-source contract analyser | 🟢 Live | [Slither](https://github.com/crytic/slither) |
 
 ---
