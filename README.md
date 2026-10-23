@@ -170,6 +170,7 @@ The web terminals that replaced Telegram bots in 2025. Sub-second execution, MEV
 | **Birdeye Trading** | Solana + Multi | Web | Birdeye's built-in swap (via Jupiter) | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Ape.pro / Ape.bond** | Multichain | Web | Curated discovery + trade | 🟢 Live | [ape.pro](https://ape.pro) |
 | **Solanahub** | Solana | Web | Multi-tool Solana hub | 🟢 Live | [solanahub.app](https://solanahub.app) |
+| **MemeHuntr** | Solana | Web terminal | Live wire of new mints, own 1s candles from on-chain swaps, rule-based Hunts (auto entry and exit ladders), TP/SL from real fill, KOL wallet buys on charts, cashback 5% to 10% of fees | 🟢 Live | [app.memehuntr.fun](https://app.memehuntr.fun) |
 
 ---
 
@@ -266,6 +267,7 @@ Mirror profitable memecoin wallets in real time. Combine smart-money discovery w
 | **Copin** | Multichain | 600K+ on-chain trader pool, copy across 20+ DEXs | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
 | 🎟️ **Padre Copy** | Solana | Padre's native copy trading | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **PVP Trade** | Solana | PvP-style competitive copy trading | 🟢 Live | [pvp.trade](https://pvp.trade) |
+| **MemeHuntr** | Solana | Copy opted-in traders ranked by realized results, own size, daily cap, exits and kill switch | 🟢 Live | [app.memehuntr.fun](https://app.memehuntr.fun/docs/copy-hunt) |
 
 ---
 
@@ -404,6 +406,7 @@ Run every token through these before you buy.
 | **CertiK SkyNet** | Multichain | Token & project safety scores | 🟢 Live | [skynet.certik.com](https://skynet.certik.com) |
 | **HoneyShield** | EVM | Honeypot scanner | 🟢 Live | [honeyshield.io](https://honeyshield.io) |
 | **Slither** | EVM | Open-source contract analyser | 🟢 Live | [Slither](https://github.com/crytic/slither) |
+| **MemeHuntr** | Solana | Grades calls A to F, LP pull warnings with auto exit on a main pool pull, dev dump or coordinated dump | 🟢 Live | [app.memehuntr.fun](https://app.memehuntr.fun/docs/hunts) |
 
 ---
 
