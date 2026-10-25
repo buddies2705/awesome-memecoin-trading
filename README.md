@@ -485,6 +485,7 @@ The actual venues where memecoin volume happens.
 | **Aerodrome** | Base | AMM | Base's primary AMM | 🟢 Live | [aerodrome.finance](https://aerodrome.finance) |
 | **SunSwap** | Tron | AMM | SunPump migration target | 🟢 Live | [sunswap.com](https://sunswap.com) |
 | **Solana Trojan Web (Trojan Trade)** | Solana | Aggregator | Trojan's swap engine | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
+| **Craic Hub Exchange** | Solana | Aggregator front end | Swaps route via Jupiter; LI.FI cross-chain bridge; token launch and listings. Fees paid in $CRAIC are burned | 🟢 Live · 🆕 | [thehubexchange.com](https://thehubexchange.com) |
 | **OKX DEX** | Multichain | Aggregator | EVM + Solana aggregation | 🟢 Live | [okx.com/web3/dex](https://www.okx.com/web3/dex) |
 | 🎟️ **1inch** | EVM | Aggregator | Multi-chain EVM aggregation | 🟢 Live | [1inch.io](https://app.1inch.io/#/r/0xbC9E96731FD3650538d23AD2DbFF46bF0454BA77) |
 | **Matcha** (0x) | EVM | Aggregator | 0x-powered EVM aggregator | 🟢 Live | [matcha.xyz](https://matcha.xyz) |
