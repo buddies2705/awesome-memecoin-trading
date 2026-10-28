@@ -764,6 +764,7 @@ CT (Crypto Twitter) is where memecoin alpha actually breaks. Below is a starter 
 - [CoinBrain — Best Web Trading Terminal 2026](https://devel.coinbrain.com/blog/which-web-trading-terminal-is-the-best)
 - [Bullrank — Axiom vs Photon vs GMGN](https://bullrank.io/learn/axiom-vs-photon-vs-gmgn)
 - [DexTools — Best Telegram Bots Solana 2026](https://www.dextools.io/tutorials/best-telegram-bots-for-solana-2026)
+- [Memecoin Guru — Best Telegram Trading Bots Compared](https://memecoin.guru/best/telegram-trading-bots)
 
 ### Smart money & whale tracking
 
