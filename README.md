@@ -170,6 +170,7 @@ The web terminals that replaced Telegram bots in 2025. Sub-second execution, MEV
 | **Birdeye Trading** | Solana + Multi | Web | Birdeye's built-in swap (via Jupiter) | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Ape.pro / Ape.bond** | Multichain | Web | Curated discovery + trade | 🟢 Live | [ape.pro](https://ape.pro) |
 | **Solanahub** | Solana | Web | Multi-tool Solana hub | 🟢 Live | [solanahub.app](https://solanahub.app) |
+| 🆕 **Trnch** | Robinhood Chain | Web terminal + MCP | Live new-token feed (the Heat), TIA rug and honeypot screening with public track record, best route across KyberSwap, 1inch, Uniswap, LI.FI, Sushi, bridge, non-custodial | 🟢 Live | [trnch.fun](https://trnch.fun) |
 
 ---
 
