@@ -344,6 +344,7 @@ Scanners for finding new tokens, trending memes, liquidity events, and hot pairs
 | **Apespace** | Multichain | Charts + token discovery | 🟢 Live | [apespace.io](https://apespace.io) |
 | 🎟️ **Ave.ai** | Solana + Multi | Memecoin discovery + analytics + trading | 🟢 Live | [ave.ai](https://share.ave.ai?code=gaurav) |
 | **Toly Stats** | Solana | Solana ecosystem stats | 🟢 Live | [tolystats.com](https://tolystats.com) |
+| 🆕 **MemeSonar** | Solana | New-token radar, KOL call scoring, rug filter + paper-trading league (invite-only) | 🟢 Live | [memesonar.app](https://memesonar.app) |
 
 ---
 
