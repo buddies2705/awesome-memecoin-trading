@@ -166,7 +166,7 @@ The web terminals that replaced Telegram bots in 2025. Sub-second execution, MEV
 | **Vector** | Solana | Web terminal | Social-feed-style memecoin trading | 🟢 Live | [vector.fun](https://vector.fun) |
 | **Pulse Terminal** | Solana | Web terminal | Pump.fun-focused interface | 🟢 Live | [pulse.run](https://pulse.run) |
 | **DexScreener Pro** | Multichain | Web | Power-user DexScreener layout | 🟢 Live | [dexscreener.com](https://dexscreener.com) |
-| **Defined.fi** | Multichain | Web terminal | High-resolution charts + token screener | 🟢 Live | [defined.fi](https://www.defined.fi) |
+| **Defined.fi** | Solana, ETH, Base, BSC, Robinhood | Web + Mobile + Telegram | Spot with limit, stop and recurring orders, Hyperliquid perps, Polymarket, TradingView charts, wallet tracking, unpaid trending | 🟢 Live | [defined.fi](https://www.defined.fi) |
 | **Birdeye Trading** | Solana + Multi | Web | Birdeye's built-in swap (via Jupiter) | 🟢 Live | [birdeye.so](https://birdeye.so) |
 | **Ape.pro / Ape.bond** | Multichain | Web | Curated discovery + trade | 🟢 Live | [ape.pro](https://ape.pro) |
 | **Solanahub** | Solana | Web | Multi-tool Solana hub | 🟢 Live | [solanahub.app](https://solanahub.app) |
@@ -507,7 +507,7 @@ The best mobile experiences for trading memecoins on the go.
 | **Axiom Mobile** | iOS / Android | Solana | Axiom mobile | 🟢 Live | [axiom.trade/@ny2025](https://axiom.trade/@ny2025) |
 | **Photon Mobile** | iOS / Android | Solana | Photon mobile | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **DexScreener Mobile** | iOS / Android | Multichain | Mobile DexScreener | 🟢 Live | [dexscreener.com](https://dexscreener.com) |
-| **Defined Mobile** | iOS / Android | Multichain | Defined.fi mobile | 🟢 Live | [defined.fi](https://www.defined.fi) |
+| **Defined Mobile** | iOS / Android | Multichain | Spot, Hyperliquid perps, Polymarket, price alerts | 🟢 Live | [defined.fi](https://www.defined.fi) |
 | **Bullpen Mobile** | iOS / Android | Sol + Hyperliquid | Bullpen app | 🟢 Live | [bullpen.fi/@agile-yak](https://bullpen.fi/@agile-yak) |
 | **Vector** | iOS / Android | Solana | Social-style memecoin app | 🟢 Live | [vector.fun](https://vector.fun) |
 | **Moonshot Mobile** | iOS / Android | Solana | Built-in fiat onramp | 🟢 Live | [moonshot.com](https://moonshot.com) |
@@ -622,7 +622,7 @@ For builders making memecoin tools, dashboards, bots, dashboards, or analytics.
 | **Solana Tracker API** | Solana | Memecoin data API | 🟢 Live | [solanatracker.io](https://www.solanatracker.io) |
 | **MadeOnSol API** | Solana | KOL trades + signals API | 🟢 Live | [madeonsol.com/developer](https://madeonsol.com/developer) |
 | **Birdeye API** | Solana + Multi | Pricing + trade API | 🟢 Live | [docs.birdeye.so](https://docs.birdeye.so) |
-| **Defined.fi API** | Multichain | Real-time pair data API | 🟢 Live | [defined.fi/api](https://www.defined.fi/api) |
+| **Codex API** | Multichain | Real-time token, pair and wallet data (the API behind Defined.fi) | 🟢 Live | [codex.io](https://www.codex.io) |
 | **DexScreener API** | Multichain | Free public API | 🟢 Live | [docs.dexscreener.com](https://docs.dexscreener.com) |
 | **GeckoTerminal API** | Multichain | Free CoinGecko DEX API | 🟢 Live | [geckoterminal.com/api](https://www.geckoterminal.com/api) |
 | **Solana Web3.js** | Solana | Solana SDK | 🟢 Live | [solana.com](https://solana.com) |
