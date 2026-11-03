@@ -552,6 +552,7 @@ Hot wallets, hardware wallets, and burner-friendly wallets.
 | **Tronscan** | Tron | Default Tron explorer | 🟢 Live | [tronscan.org](https://tronscan.org) |
 | **Etherscan** | Ethereum | The original | 🟢 Live | [etherscan.io](https://etherscan.io) |
 | **Blockscout** | Multi-chain | Open-source EVM explorer | 🟢 Live | [blockscout.com](https://www.blockscout.com) |
+| **Codex Scan** 🆕 | Solana, BSC, Base + EVM | Decoded txs, token holders + trades, launchpads | 🟢 Live | [scan.codex.io](https://scan.codex.io) |
 | **HyperEVMScan** | Hyperliquid | Etherscan-style HL explorer | 🟢 Live | [hyperevmscan.io](https://hyperevmscan.io) |
 
 ---
