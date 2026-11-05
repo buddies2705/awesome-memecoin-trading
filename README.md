@@ -363,6 +363,7 @@ See who actually holds the supply — detect insider clusters, sybil splits, dep
 | **DexCheck** | Multichain | Holder + insider analysis | 🟢 Live | [dexcheck.ai](https://dexcheck.ai) |
 | **Ape.bond Holder View** | Multichain | Distribution dashboards | 🟢 Live | [ape.bond](https://ape.bond) |
 | **HolderChecker** | Solana | Quick holder concentration | 🟢 Live | [holderchecker.io](https://holderchecker.io) |
+| **BubbleLens** | Solana | Bubble maps with automatic cluster and bundler detection, plus wallet funding traces | 🟢 Live | [bubblelens.io](https://bubblelens.io) |
 
 ---
 
