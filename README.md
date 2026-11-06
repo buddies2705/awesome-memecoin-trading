@@ -203,6 +203,7 @@ Telegram bots are still the fastest path for many memecoin traders — sub-secon
 | 🎟️ **Sigma Buy Bot** | Solana | Bot | Solana sniper / fast buy | 🟢 Live | [@Sigma_buyBot](https://t.me/Sigma_buyBot?start=ref=388733201) |
 | 🎟️ **DBotX** | Multichain | Bot | Multi-chain trading bot platform | 🟢 Live | [dbotx.com](https://dbotx.com/?ref=81911082) |
 | 🎟️ **Ave.ai (avebot)** | Solana + EVM | Bot + Web | Memecoin discovery + trading from Telegram and web | 🟢 Live | [share.ave.ai](https://share.ave.ai?code=gaurav) |
+| **A.U.G.U.R** | Solana + 13 EVM chains | Bot + Web + Android | Call sniper (Telegram/X calls, sub-second detection to buy), whale copy trading, Auspice rug scanner, no-account demo | 🟢 Live | [@TradeWithAUGUR_bot](https://t.me/TradeWithAUGUR_bot) |
 
 ---
 
