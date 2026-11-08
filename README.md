@@ -404,6 +404,7 @@ Run every token through these before you buy.
 | **CertiK SkyNet** | Multichain | Token & project safety scores | 🟢 Live | [skynet.certik.com](https://skynet.certik.com) |
 | **HoneyShield** | EVM | Honeypot scanner | 🟢 Live | [honeyshield.io](https://honeyshield.io) |
 | **Slither** | EVM | Open-source contract analyser | 🟢 Live | [Slither](https://github.com/crytic/slither) |
+| **Quantum Audit** | Solana, BSC, Base, ETH, Polygon, Arbitrum | Factor-by-factor risk score + dated public token records | 🟢 Live | [quantumaudit.app](https://quantumaudit.app) |
 
 ---
 
