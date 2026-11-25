@@ -285,6 +285,7 @@ Find and follow profitable wallets, KOLs, insiders, and whales across chains. Re
 | 🎟️ **Padre Vision** | Solana | Padre's wallet ranking | 🟢 Live | [trade.padre.gg](https://trade.padre.gg/rk/ccc) |
 | **Trojan Analyzer** | Solana | Wallet ranking + performance tracking | 🟢 Live | [trojan.com/@coincodecap](https://trojan.com/@coincodecap) |
 | **MadeOnSol** | Solana | KOL tracker, deployer hunter, API for KOL trades | 🟢 Live | [madeonsol.com](https://madeonsol.com) |
+| 🆕 **Cabal Hunter** | Solana | KOL side wallets: each KOL's main wallet + the side wallets linked to it by on-chain proof, on the coin you open (Chrome) | 🟢 Live | [cabal-hunter.com](https://cabal-hunter.com/chrome-extension) |
 | **ChainEdge** | Multichain | Wallet alerts | 🟢 Live | [chainedge.io](https://chainedge.io) |
 | **Wallet Whale Watcher** | Solana | Whale tx alerts | 🟢 Live | [whalewatchers.io](https://whalewatchers.io) |
 | **SolanaTracker** | Solana | Wallet tracker + data API | 🟢 Live | [solanatracker.io](https://www.solanatracker.io) |
@@ -377,6 +378,7 @@ Detect coordinated buys (bundles), sandwich attacks, and insider snipes — crit
 | **GMGN Insider Mode** | Multichain | Insider trading pattern flags | 🟢 Live | [gmgn.ai/r/tokugawa](https://gmgn.ai/r/tokugawa) |
 | **Photon Bundle Check** | Solana | Inline bundle detection on token pages | 🟢 Live | [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/@coinmonks) |
 | **Trenchy** | Solana | Telegram-based snipe / bundle scan | 🟢 Live | [solanabox.tools/tools/trenchy](https://solanabox.tools/tools/trenchy) |
+| 🆕 **Cabal Hunter** | Solana | First-seconds launch buyers, holder clusters by shared funding, dev launch history | 🟢 Live | [cabal-hunter.com](https://cabal-hunter.com) |
 | **PumpScope Whale Tracker** | Solana | Whale + bundle alerts | 🟢 Live | [pumpscope.polsia.app](http://pumpscope.polsia.app/) |
 | **Sandwich.dev** | EVM | EVM sandwich attack detection | 🟢 Live | [sandwich.dev](https://sandwich.dev) |
 | **MEV Inspect** | EVM | Open-source MEV/sandwich indexer | 🟢 Live | [mev-inspect](https://github.com/flashbots/mev-inspect-py) |
